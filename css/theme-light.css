@@ -1,0 +1,10 @@
+:root {
+    --background: #ffffff;
+    --foreground: #000000;
+    --icon-dark: url("/img/moon-dark.png");
+    --icon-light: url("/img/moon.png");
+}
+
+.img-bw {
+    filter: none;
+}

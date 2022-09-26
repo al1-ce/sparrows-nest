@@ -1,0 +1,10 @@
+:root {
+    --background: #000000;
+    --foreground: #ffffff;
+    --icon-dark: url("/img/sun-dark.png");
+    --icon-light: url("/img/sun.png");
+}
+
+.img-bw {
+    filter: invert(1);
+}

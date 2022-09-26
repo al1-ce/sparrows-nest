@@ -1,0 +1,103 @@
+@font-face {
+    font-family: 'sqares'; 
+    src: url("../fnt/squares.otf") format('truetype');
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    min-height: 100%;
+    height: 100%;
+}
+
+::selection {
+    background-color: black;
+    color: white;
+}
+
+::-moz-selection {
+    background-color: black;
+    color: white;
+}
+
+#content {
+    min-height: calc(100% - 3.5em - 4em);
+    padding: 1em;
+}
+
+#navbar {
+    height: 2.5em;
+    background-color: black;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: flex-start;
+    justify-content: center;
+}
+
+#navbar .navitem {
+    color: white;
+    background-color: black;
+    margin: 0;
+    font-family: "sqares";
+    font-size: 1.5em;
+    height: 100%;
+    padding: 0 1.5em 0 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* #navbar #current-page {
+    color: black;
+    background-color: white;
+}
+
+#navbar #current-page:hover {
+    color: white;
+    background-color: black;
+} */
+
+#navbar .navitem:hover {
+    color: black;
+    background-color: white;
+}
+
+#theme-button {
+    background-image: var(--icon-light);
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#theme-button:hover {
+    background-image: var(--icon-dark);
+}
+
+#footer {
+    /* z-index: -1; */
+    /* position: absolute;
+    bottom: 0; */
+    
+	/* position: fixed; */
+    position: relative;
+    bottom: 0px; 
+    width: 100%;
+}
+
+#footer-top {
+    background-color: black;
+    height: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#footer-bottom {
+    background-color: black;
+    height: 2em;
+}
