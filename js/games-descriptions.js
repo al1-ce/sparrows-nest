@@ -1,9 +1,16 @@
 var descriptionVolga = `
+<!-- <div style="min-height: 1em"></div> -->
 **FIST WORLD VOLGA**
 
 **Release Date: April 30th 2021**
 
+**Media Type: Fighting Board Game**
+
 **Platform: Itch.io**
+
+<div style="min-height: 0.5em"></div>
+<hr style="height: 2px; background-color: black; border: none;">
+<div style="min-height: 0.5em"></div>
 
 **The year is 2391.**
 
@@ -40,9 +47,15 @@ _**Welcome to Fist World Volga!**_
 var descriptionTremerine = `
 **TREMERINE: SEA OF THE STARS**
 
-**Year of Release: November 13th 2021**
+**Release Date: November 13th 2021**
+
+**Media Type: Tabletop RPG**
 
 **Platform: Itch.io**
+
+<div style="min-height: 0.5em"></div>
+<hr style="height: 2px; background-color: black; border: none;">
+<div style="min-height: 0.5em"></div>
 
 **The year is 2394**
 
@@ -73,9 +86,16 @@ var descriptionShardana = `
 
 **SHARDANA: HYDRO TRAIL GP**
 
-**Year of Release: Hopefully 2023**
+**Release Date: Hopefully 2023**
+
+**Media Type: Racing Board Game**
 
 **Platform: Itch.io**
+
+
+<div style="min-height: 0.5em"></div>
+<hr style="height: 2px; background-color: black; border: none;">
+<div style="min-height: 0.5em"></div>
 
 **The year is 2395.**
 
@@ -109,9 +129,16 @@ _**Fasten your seatbelts and link up your drinking cable for Hydro Trail GP!**_
 var descriptionSirius = `
 **SIRIUS: TREACHEROUS REACHES**
 
-**Year of Release: [TBA]**
+**Release Date: [TBA]**
+
+**Media Type: Social Deduction Board Game**
 
 **Platform: Itch.io**
+
+
+<div style="min-height: 0.5em"></div>
+<hr style="height: 2px; background-color: black; border: none;">
+<div style="min-height: 0.5em"></div>
 
 **The year is 2397.**
 
