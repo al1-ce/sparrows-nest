@@ -14,16 +14,6 @@ body {
     height: 100%;
 }
 
-::selection {
-    background-color: black;
-    color: white;
-}
-
-::-moz-selection {
-    background-color: black;
-    color: white;
-}
-
 #content {
     min-height: calc(100% - 3.5em - 4em);
     padding: 1em;

@@ -14,32 +14,28 @@ var descriptionVolga = `
 
 **The year is 2391.**
 
-Mankind has long
-expanded into the great starry void. War after war, its path across
-outer space was paved by the flesh and bone of the millions who have fallen. Even in times of peace, the echoes of battles to come ring in
-the ears of those who managed to survive, a grim reminder that all
-that lives is shackled to the unbreakable chains of history....
+Mankind has long expanded into the great starry void. 
+War after war, its path across outer space was paved by the flesh and bone of the fallen, 
+countless in number. Even now, at the dawn of newfound peace, 
+the echoes of battles to come ring in the ears of the survivors, 
+a grim reminder that all that lives is shackled to the unbreakable chains of history…
 
 **...but hey, at least we've got giant robot arenas now.**
 
-Scattered across
-known space under the ownership of Galactica Sports Entertainment,
-"Fist World" combat circuits are a staple of recreational
-mech combat, taking up to 15% of the whole battleframe industry and
-turning the worlds hosting their competitions into bustling hubs of
-tourism, industry and under-the-counter gambling when the venue's
-rent-a-cops aren't looking.
+Scattered across the Outer Colonies under the ownership of Galactica Sports Entertainment, 
+"Fist World" combat circuits are a staple of recreational Battleframe combat, 
+turning the worlds hosting them into bustling hubs of tourism, 
+industry and under-the-counter gambling when the venue's rent-a-cops aren't looking.
 
 **So, all things considered, not an entirely terrible deal.**
 
-Especially for the
-populace of a remote planet that, after some two hundred years of
-isolation, resource scarcity and desperate struggle for survival,
-eventually saw its homeworld become the main theater of an
-interstellar conflict. After all, the cities are already in shambles
-and the planet’s only moon has been sliced in two - letting some
-offworlders set up shop and build a couple of stadiums could hardly
-make things any worse.
+Especially for the populace of a remote planet that, 
+after some two hundred years of isolation, 
+resource scarcity and desperate struggle for survival, 
+eventually saw its homeworld become the main theater of an interstellar conflict. 
+After all, the cities are already in shambles and the planet's only moon 
+has been sliced in two - letting some offworlders build a couple of stadiums 
+could hardly make things any worse.
 
 _**Welcome to Fist World Volga!**_
 `;
