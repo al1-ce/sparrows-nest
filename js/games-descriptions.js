@@ -55,7 +55,7 @@ var descriptionTremerine = `
 
 **The year is 2394**
 
-Nine years after the
+Seven years after the
 tide of violence wrought by the Great Colonial War has upset a
 century-old balance of power, humanity is once again entering an era
 of fragile peace.
@@ -82,7 +82,7 @@ var descriptionShardana = `
 
 **SHARDANA: HYDRO TRAIL GP**
 
-**Release Date: Hopefully 2023**
+**Release Date: July 24th 2023**
 
 **Media Type: Racing Board Game**
 
@@ -105,27 +105,19 @@ to go is foward.
 
 **Forward into an uncertain, if ever so hopeful, future.**
 
-Organized by the
-Deadalus Consortium, Hydro Trail GP is an all-new naval racing
-championship designed to bring new eyes to the otherwise niche
-Shardanian national sport - a way to show, through glamourous events
-and cutting edge technology, that Shardana is prepared for the
-future.
+Organized by the Deadalus Consortium, an association of local companies aiming to "relaunch" the planet's economy, Hydro Trail GP is an all-new naval racing championship designed to "bring offworld engagement" to the otherwise niche Shardanian national sport. A way to show, through glamourous racing events and cutting edge technology, that Shardana is prepared for the future.
 
-**Six heats, five teams, one champion.**
+**The eyes of the galaxy turn as one, craving entertainment.**
 
-As engines and
-rivalries alike flare up, the eyes of the Outer Colonies turn from
-Volga’s biomecha brawling to the sparkling blue waters of the Pearl
-of Aurelia. The starting grid is waiting, can you take the heat?
+Recruited from the ranks of the Consortium itself, five racing teams are taking part in the inaugural season - bringing with them old rivalries and setting the stage for whole new ones. And so, as the lights go green and jet engines roar awake, trillions of minds suddenly find themselves in tune - a single sentence flashing forth in that magical split second before all hell breaks lose on track.
 
-_**Fasten your seatbelts and link up your drinking cable for Hydro Trail GP!**_
+_**For the love of God, please don't mess it up.**_
 `;
 
 var descriptionSirius = `
 **SIRIUS: TREACHEROUS REACHES**
 
-**Release Date: [TBA]**
+**Release Date: Autumn 2023**
 
 **Media Type: Social Deduction Board Game**
 

@@ -7,7 +7,7 @@ let maxItem = 0;
 
 addItem("https://data-sparrow.itch.io/fist-world-volga", "/img/games/volga.png", descriptionVolga, true);
 addItem("https://data-sparrow.itch.io/tremerine-sea-of-the-stars", "/img/games/tremerine.png", descriptionTremerine);
-addItem("/html/wip.html", "/img/games/shardana.png", descriptionShardana);
+addItem("https://data-sparrow.itch.io/shardana-hydro-trail-gp", "/img/games/shardana.png", descriptionShardana);
 addItem("/html/wip.html", "/img/games/sirius.png", descriptionSirius);
 
 showItem(0);

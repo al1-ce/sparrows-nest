@@ -10,7 +10,7 @@ let $navbar = $(`
     <div id="navbar">
         <a class="navitem" href="/index.html">HOME</a>
         <a class="navitem" href="/html/games.html">GAMES</a>
-        <a class="navitem" href="/html/wip.html">MERCH</a>
+        <a class="navitem" href="/html/merch.html">MERCH</a>
         <a class="navitem" href="/html/contact.html">CONTACT</a>
         <a class="navitem" href="/html/about.html">ABOUT</a>
         <button class="navitem" id="theme-button"></button>

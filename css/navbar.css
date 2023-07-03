@@ -64,6 +64,7 @@ body {
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: center;
+    border: none;
 }
 
 #theme-button:hover {
