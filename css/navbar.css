@@ -57,6 +57,7 @@ body {
 #navbar .navitem:hover {
     color: black;
     background-color: white;
+    cursor: pointer;
 }
 
 #theme-button {
