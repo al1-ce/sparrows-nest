@@ -121,32 +121,26 @@ var descriptionSirius = `
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
 
-**The year is 2397.**
+_**The year is 2397_**
 
-Lightyears away from
-the blossoming Cosmic East, the sea of stars has become playing field
-to an orbital shadow war. The prize? The allegiance of the
-Sovereignty of Sirius - and the riches it can to offer to its new
-masters.
+Lightyears away from the blossoming Cosmic East, the sea of stars has become a battlefield to a silent civil war, seeded and spurred on by galactic superpowers. The prize? The allegiance of the Sovereignty of Sirius, the richest among the Inner Colonies.
 
-**A shining gem of the void, torn apart from the inside.**
+_**A gem of the void, contested by greed and zeal._**
 
-The inhabitants of
-the Sirius System, from the highest-standing Kshatriya Admiral to the
-most destitute Shudra miner, have found themselves tangled into a
-silent civil war seeded by neighboring superpowers. All it takes is
-one “Blackout Mine”: paranoia and Caste-based grudges will do the
-rest.
+Ruled by a theocratic order of ancient design, the Sovereignty of Sirius stands at an impass, the divide between its ruling caste and worker caste reaching its widest point in centuries. A specter of dissent creeps among the populace, and it bears the flag of the "Naxalites" - a collectivist movement aligned with the Sovereignty's lifelong enemies: the increasingly influential Terran Protectorate.
 
-**In the shadow of the stars, no one can hear you scheme.**
+_**Operation "CORNERSTONE" is a go._**
 
-Life support systems
-are down to the bare minimum, maneuvering thrusters are dead and long
-range communications are fried: all you can do is listen to the pleas
-of the unfortunate souls stuck in this mess with you, trying to track
-their vessel through the radio waves and hoping they’re not using
-this time to get a bead on your position.
+Weaponizing the mounting dissatisfaction of rebellious elements across all castes, a concerted effort to supply and direct them has manifested itself into increasingly frequent voidborne terror attacks. Attacks in which the lines between friends and foes are shattered to the tune of EM disruptor mines, and in which desperate pleas, panicked lies and misplaced shots score the whittling down of a bicentennial regime.
 
-_**Fill up your air tanks and pray you can survive Sirius: Treacherous Reaches.**_
-<img src="/img/games/amogus.png" style="position:absolute;opacity:0.03;top:4em;right:1em;height:40px;"></img>
+_**In the shadows of stars, no one can hear you scheme._**
+
+Sirius: Treacherous Reaches is a 5 to 11 social deduction space combat game inspired by Werewolf, Secret Hitler, Battleship and Highfleet - applying the scheming and dramatics of social deduction games to a grid-based, space combat scenario in which each player helms their own vessel, and votes are cast by firing its weapons directly onto the grid square of a presumed traitor.
+
+Split into six Castes, each with their own particular Ship and Abilities, players will find themselves split between loyal Citizenry and rebellious Naxalites: the former trying to smoke out the latter before they can be outnumbered - in a battle of trust, cunning and wild hunches that will test friendships both in and out of the game!
+
+The game includes full assets for both tabletop and online play, to include a deck of 17 Ship Cards, four sets of marker tokens (Coordinates, Allegiance, Attack), the two-sheet playfield and an interactive Command Sheet pdf.
+
+_**Fill up your air tanks and pray you can survive these Treacherous Reaches._**
+<img src="/img/games/amogus.png" style="position:absolute;opacity:0.05;top:4em;right:1em;height:40px;"></img>
 `;
