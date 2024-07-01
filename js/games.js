@@ -8,7 +8,7 @@ let maxItem = 0;
 addItem("https://data-sparrow.itch.io/fist-world-volga", "/img/games/volga.png", descriptionVolga, true);
 addItem("https://data-sparrow.itch.io/tremerine-sea-of-the-stars", "/img/games/tremerine.png", descriptionTremerine);
 addItem("https://data-sparrow.itch.io/shardana-hydro-trail-gp", "/img/games/shardana.png", descriptionShardana);
-addItem("/html/wip.html", "/img/games/sirius.png", descriptionSirius);
+addItem("https://data-sparrow.itch.io/sirius-treacherous-reaches", "/img/games/sirius.png", descriptionSirius);
 
 showItem(0);
 
@@ -42,7 +42,7 @@ function moveItems(dir) {
 function showItem(num) {
     $("#gamebox > *").hide();
     $("#descbox > *").hide();
-    
+
     $(`#gamebox > *:eq(${num})`).show();
     $(`#descbox > *:eq(${num})`).show();
 }
@@ -59,7 +59,7 @@ function addItem(link, imagepath, gamedescr, grayscale = false) {
     `);
 
     let $desc;
-    if (link == "/html/wip.html") {
+    if (link == "") {
         $desc = $(`
         <div class="gamedesc pjs-markdown">
         <p><a style="color:red;">TBA</a></p>

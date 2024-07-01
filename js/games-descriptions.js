@@ -12,29 +12,29 @@ var descriptionVolga = `
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
 
-_**The year is 2391_**
+### *The year is 2391*
 
 Mankind has long expanded into the great starry void. War after war, its path across outer space was paved by the flesh and bone of the fallen, countless in number. Even now, at the dawn of newfound peace, the echoes of battles to come ring in the ears of the survivors, a grim reminder that all that lives is shackled to the unbreakable chains of history…
 
-_**...but hey, at least we've got giant robot arenas now._**
+### *...but hey, at least we've got giant robot arenas now.*
 
-Scattered across the Outer Colonies under the ownership of Galactica Sports Entertainment, "Fist World" combat circuits are a staple of recreational Battleframe combat, turning the worlds hosting them into bustling hubs of tourism, industry and under-the-counter gambling when the venue's rent-a-cops aren't looking. 
+Scattered across the Outer Colonies under the ownership of Galactica Sports Entertainment, "Fist World" combat circuits are a staple of recreational Battleframe combat, turning the worlds hosting them into bustling hubs of tourism, industry and under-the-counter gambling when the venue's rent-a-cops aren't looking.
 
-_**So, all things considered, not a terrible deal._**
+### *So, all things considered, not a terrible deal.*
 
-Especially for the populace of a remote planet that, after some two hundred years of isolation, resource scarcity and desperate struggle for survival, eventually saw its homeworld become the main theater of an interstellar conflict. After all, the cities are already in shambles and the planet's only moon has been sliced in two - letting some offworlders build a couple of stadiums could hardly make things any worse. 
+Especially for the populace of a remote planet that, after some two hundred years of isolation, resource scarcity and desperate struggle for survival, eventually saw its homeworld become the main theater of an interstellar conflict. After all, the cities are already in shambles and the planet's only moon has been sliced in two - letting some offworlders build a couple of stadiums could hardly make things any worse.
 
-_**Welcome to Fist World Volga!_**
+### *Welcome to Fist World Volga!*
 
 Fist World Volga is a 1v1 "fighting board game", mixing the grid-based tactics of classic wargames like Battletech with the mechanical depth and unrelenting kineticism of arcade fighting games like Cyberbots: Full Metal Madness, Guilty Gear and...Zero Divide?
 
-Step into the cockpit of the Divjak MKII Sporting Bioframe and duke it out in the squared circle as one of eight different Frame Configurations, each armed with a variety of dubiously accurate guns and flashy melee weapons - from plain old rocket-powered fists to giant gunblades! 
+Step into the cockpit of the Divjak MKII Sporting Bioframe and duke it out in the squared circle as one of eight different Frame Configurations, each armed with a variety of dubiously accurate guns and flashy melee weapons - from plain old rocket-powered fists to giant gunblades!
 
-Learn your frame's strengths and master its matchups: the general ruleset is fairly lightweight, so it all comes down to knowing your tools and denying the opponent the chance to use theirs. 
+Learn your frame's strengths and master its matchups: the general ruleset is fairly lightweight, so it all comes down to knowing your tools and denying the opponent the chance to use theirs.
 
-That, or going full gorilla and hoping your next raw heavy is the right one. 
+That, or going full gorilla and hoping your next raw heavy is the right one.
 
-_**After all, no play is a bad play if it worked._**
+### *After all, no play is a bad play if it worked.*
 `;
 
 var descriptionTremerine = `
@@ -50,23 +50,23 @@ var descriptionTremerine = `
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
 
-_**The year is 2394_**
+### *The year is 2394*
 
 Seven years after the tide of violence wrought by the Great Colonial War upset a century-old balance of power, humanity is once again entering an era of fragile peace. From the ashes of the old Avignon Empire, firestarter of the conflict, a federation of former vassal worlds has risen - denying the tantalizing offer of growth and prosperity under the ever-increasing reach of the United Systems Alliance in favor of long-awaited independence.
 
-_**Welcome to the Tremerine Union._**
+### *Welcome to the Tremerine Union.*
 
-Built on the principles of "Safety, Equality and Dignity" and spanning nine worlds over four star systems, the Tremerine Union has since established itself as a respectably powerful player on the galactic chessboard - something of a middle ground between the Alliance's gossamer state and the Terran Protectorate's more authoritarian rulings. 
+Built on the principles of "Safety, Equality and Dignity" and spanning nine worlds over four star systems, the Tremerine Union has since established itself as a respectably powerful player on the galactic chessboard - something of a middle ground between the Alliance's gossamer state and the Terran Protectorate's more authoritarian rulings.
 
 Focused on building over the decadence and devastation left in the wake of Avignon's fall, the Union has been working tirelessly to secure the great spaceways and the latest colonies discovered by the empire's Expanse Initiative, which in the meantime had become safe havens for surviving imperial remnants.
 
 This effort would soon lead to the establishment of a national self-defense fleet, doing away with the "opportunity-based" mercenary army model taken from the Alliance in the early, turbulent years of reunification. This fleet now patrols the sea of stars, on the lookout for anyone daring enough to challenge this new peace.
 
-_**Which is where you come in._**
+### *Which is where you come in.*
 
 You and your companions find yourselves in the midst of all this, sailing the sea of the stars on the same starship for one reason or another: on a mission, in search of profits, or simply looking for a good time. Each of you may come from a different background or work a different profession, but you will need to cooperate to get the job done.
 
-_**Who will you be in this galaxy of opportunities?_**
+### *Who will you be in this galaxy of opportunities?*
 `;
 
 var descriptionShardana = `
@@ -84,27 +84,27 @@ var descriptionShardana = `
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
 
-_**The year is 2395_**
+### *The year is 2395*
 
 A decade after the war that shook the Outer Colonies and brought the Avignon Empire to its knees, the Confederation of Shardana, an idyllic ocean world in the Aurelia System, has finally returned to relative normalcy. As the hulks of orbital warships float along coastlines lined with rubble, it’s clear that the worst has come to pass - and now, the only way to go is foward.
 
-_**Forward into an uncertain, if ever so hopeful, future._**
+### *Forward into an uncertain, if ever so hopeful, future.*
 
 Organized by the Deadalus Consortium, an association of local companies aiming to "relaunch" the planet's economy, Hydro Trail GP is an all-new naval racing championship designed to "bring offworld engagement" to the otherwise niche Shardanian national sport. A way to show, through glamourous racing events and cutting edge technology, that Shardana is prepared for the future.
 
-_**The eyes of the galaxy turn as one, craving entertainment._**
+### *The eyes of the galaxy turn as one, craving entertainment.*
 
 Recruited from the ranks of the Consortium itself, five racing teams are taking part in the inaugural season - bringing with them old rivalries and setting the stage for whole new ones. And so, as the lights go green and jet engines roar awake, trillions of minds suddenly find themselves in tune - a single sentence flashing forth in that magical split second before all hell breaks lose on track.
 
-_**For the love of God, please don't mess it up._**
+### *For the love of God, please don't mess it up.*
 
-Shardana: Hydro Trail GP is a 4-player nautical racing board game inspired by WipEout, Rapid Racer and actual powerboat racing - bringing a mix of high-octane arcade action and high-stakes precision maneuvers to the comfort of a rules-light "racing tactics" system. 
+Shardana: Hydro Trail GP is a 4-player nautical racing board game inspired by WipEout, Rapid Racer and actual powerboat racing - bringing a mix of high-octane arcade action and high-stakes precision maneuvers to the comfort of a rules-light "racing tactics" system.
 
 Each player takes control of a BXS Series Racing Chassis, all designed for a particular driving style and armed with a unique Equipment Piece to turn the odds in its favor - whether it's simple Naval Airbrakes or Self-Repair Nanites.
 
 By default, the game also comes with six courses through which said chasses can be raced, all of which are easily set up thanks to a modular "Marker Buoy" system - mirroring the way real powerboat competitions set up their courses. Thanks to this same modularity however, players can just as easily build their own tracks - a process facilitated by the Custom Venue Profiles available in the game's free Companion Booklet.
 
-_**Fasten your seatbelts and link up your drink for Hydro Trail GP!_**
+### *Fasten your seatbelts and link up your drink for Hydro Trail GP!*
 `;
 
 var descriptionSirius = `
@@ -121,26 +121,26 @@ var descriptionSirius = `
 <hr style="height: 2px; background-color: black; border: none;">
 <div style="min-height: 0.5em"></div>
 
-_**The year is 2397_**
+### *The year is 2397*
 
 Lightyears away from the blossoming Cosmic East, the sea of stars has become a battlefield to a silent civil war, seeded and spurred on by galactic superpowers. The prize? The allegiance of the Sovereignty of Sirius, the richest among the Inner Colonies.
 
-_**A gem of the void, contested by greed and zeal._**
+### *A gem of the void, contested by greed and zeal.*
 
 Ruled by a theocratic order of ancient design, the Sovereignty of Sirius stands at an impass, the divide between its ruling caste and worker caste reaching its widest point in centuries. A specter of dissent creeps among the populace, and it bears the flag of the "Naxalites" - a collectivist movement aligned with the Sovereignty's lifelong enemies: the increasingly influential Terran Protectorate.
 
-_**Operation "CORNERSTONE" is a go._**
+### *Operation "CORNERSTONE" is a go.*
 
-Weaponizing the mounting dissatisfaction of rebellious elements across all castes, a concerted effort to supply and direct them has manifested itself into increasingly frequent voidborne terror attacks. Attacks in which the lines between friends and foes are shattered to the tune of EM disruptor mines, and in which desperate pleas, panicked lies and misplaced shots score the whittling down of a bicentennial regime.
+Weaponizing the mounting dissatisfaction of rebellious elements across all castes, a concerted effort to supply and direct them has manifested itself into increasingly frequent voidborne terror attacks. Attacks in which the lines between friends and foes are shattered to the tune of EM pulses, and in which desperate pleas, panicked lies and misplaced shots score the whittling down of a bicentennial regime.
 
-_**In the shadows of stars, no one can hear you scheme._**
+### *In the shadows of stars, no one can hear you scheme.*
 
-Sirius: Treacherous Reaches is a 5 to 11 social deduction space combat game inspired by Werewolf, Secret Hitler, Battleship and Highfleet - applying the scheming and dramatics of social deduction games to a grid-based, space combat scenario in which each player helms their own vessel, and votes are cast by firing its weapons directly onto the grid square of a presumed traitor.
+Sirius: Treacherous Reaches is a 5-to-10-player social deduction space combat game inspired by Werewolf,  Secret Hitler,  Battleship  and  Highfleet  -  applying the scheming and dramatics of social deduction games to a grid-based, space combat scenario  in which each player helms their own vessel, and votes are cast by firing its weapons directly onto the grid square of a presumed traitor.
 
-Split into six Castes, each with their own particular Ship and Abilities, players will find themselves split between loyal Citizenry and rebellious Naxalites: the former trying to smoke out the latter before they can be outnumbered - in a battle of trust, cunning and wild hunches that will test friendships both in and out of the game!
+Split into  six Castes,  each with their own particular Ships and Abilities, players will find themselves split between loyal Citizenry  and  rebellious Naxalites: the former trying to smoke out the latter before they can be outnumbered -  in a battle of trust, cunning and wild hunches that will test friendships both in and out of the game!
 
-The game includes full assets for both tabletop and online play, to include a deck of 17 Ship Cards, four sets of marker tokens (Coordinates, Allegiance, Attack), the two-sheet playfield and an interactive Command Sheet pdf.
+The game includes  full assets for both tabletop and online play, to include a deck of 16 Ship Cards, four sets of marker tokens (Coordinates, Allegiance, Attack), a two-sheet playfield and an  interactive Command Sheet.
 
-_**Fill up your air tanks and pray you can survive these Treacherous Reaches._**
+### *Fill up your air tanks and pray you can survive these Treacherous Reaches.*
 <img src="/img/games/amogus.png" style="position:absolute;opacity:0.05;top:4em;right:1em;height:40px;"></img>
 `;
