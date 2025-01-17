@@ -110,7 +110,7 @@ By default, the game also comes with six courses through which said chasses can 
 var descriptionSirius = `
 **SIRIUS: TREACHEROUS REACHES**
 
-**Release Date: 2024**
+**Release Date: June 11th 2024**
 
 **Media Type: Social Deduction Board Game**
 
