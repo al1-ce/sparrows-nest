@@ -9,6 +9,7 @@ addItem("https://data-sparrow.itch.io/fist-world-volga", "/img/games/volga.png",
 addItem("https://data-sparrow.itch.io/tremerine-sea-of-the-stars", "/img/games/tremerine.png", descriptionTremerine);
 addItem("https://data-sparrow.itch.io/shardana-hydro-trail-gp", "/img/games/shardana.png", descriptionShardana);
 addItem("https://data-sparrow.itch.io/sirius-treacherous-reaches", "/img/games/sirius.png", descriptionSirius);
+addItem("https://datasparrow.itch.io/rebuilding-triunfo", "/img/games/triunfo.png", descriptionTriunfo);
 
 showItem(0);
 
