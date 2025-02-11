@@ -14,6 +14,7 @@ let $navbar = $(`
         <a class="navitem" href="/html/mods.html">MODS</a>
         <a class="navitem" href="/html/contact.html">CONTACT</a>
         <a class="navitem" href="/html/about.html">ABOUT</a>
+        <a class="navitem" href="/html/links.html">LINKS</a>
         <button class="navitem" id="theme-button"></button>
     </div>
     `);
