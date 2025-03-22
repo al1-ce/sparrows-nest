@@ -1,0 +1,52 @@
+#navbar {
+  min-height: 2.5em;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-content: flex-start;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.nav-button {
+  color: white;
+  background-color: black;
+  margin: 0;
+  font-family: "sqares";
+  font-size: 1.5em;
+  height: 2.5em;
+  padding: 0 1.5em 0 1.5em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* #navbar #current-page {
+    color: black;
+    background-color: white;
+}
+
+#navbar #current-page:hover {
+    color: white;
+    background-color: black;
+} */
+.nav-button:hover {
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+#nav-theme {
+  background-image: var(--icon-light);
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+}
+
+#nav-theme:hover {
+  background-image: var(--icon-dark);
+}

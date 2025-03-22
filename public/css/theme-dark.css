@@ -1,0 +1,20 @@
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+  --icon-dark: url("/public/res/img/sun-dark.png");
+  --icon-light: url("/public/res/img/sun.png");
+}
+
+.img-bw {
+  filter: invert(1);
+}
+
+::selection {
+  background-color: white;
+  color: black;
+}
+
+::-moz-selection {
+  background-color: white;
+  color: black;
+}

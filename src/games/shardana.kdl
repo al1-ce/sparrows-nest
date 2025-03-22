@@ -1,0 +1,11 @@
+@include "../_lib/game.kdl"
+
+img src="/public/res/img/games/volga.png" class="game-logo img-bw"
+
+p {
+    a href="https://data-sparrow.itch.io/shardana-hydro-trail-gp" "Buy Game"
+}
+// p { a style="color:red;" "TBA" }
+
+@include "../_md/shardana.md"
+

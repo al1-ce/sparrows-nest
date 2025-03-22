@@ -1,0 +1,70 @@
+style type="text/css" r"
+    #mission {
+        text-align: center;
+    }
+    a img {
+        width: 20em;
+    }
+
+    .games {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        /* flex-flow: row; */
+        justify-content: space-evenly;
+        align-items: center;
+        /* margin: 2em auto 2em auto; */
+    }
+
+    p {
+        font-size: 1.25em;
+    }
+
+    h2 {
+        font-size: 1.6em;
+    }
+"
+
+img class="img-bw" id="logo" src="/public/res/img/presskit/logo-full.png"
+
+div id="mission" {
+
+    h2 "Welcome to the official website of the Data Sparrow art collective!"
+
+    div style="padding: 0.2em;" ""
+
+    p "If you’re looking for mechanically bizarre, stylish-looking tabletop games and a vast, varied sci-fi universe tying the whole thing together, you’ve come to the right place."
+
+    div style="padding: 0.2em;" ""
+
+    h2 "Our currently released projects include:"
+
+    div style="padding: 0.4em;" ""
+
+    div class="games" {
+        a href="https://data-sparrow.itch.io/fist-world-volga" {
+            img class="img-bw" src="/public/res/img/games/volga.png"
+        }
+        a href="https://data-sparrow.itch.io/tremerine-sea-of-the-stars" {
+            img src="/public/res/img/games/tremerine.png"
+        }
+        a href="https://data-sparrow.itch.io/shardana-hydro-trail-gp" {
+            img src="/public/res/img/games/shardana.png"
+        }
+        a href="https://data-sparrow.itch.io/sirius-treacherous-reaches" {
+            img src="/public/res/img/games/sirius.png"
+        }
+        a href="https://datasparrow.itch.io/rebuilding-triunfo" {
+            img src="/public/res/img/games/triunfo.png"
+        }
+    }
+
+    p "Wanna know more about us? The <a onclick=\"loadPage('about')\" class=\"fake-button\">ABOUT</a> page is here for you!"
+
+    p "Need to tell us something? The <a onclick=\"loadPage('contact')\" class=\"fake-button\">CONTACT</a> page is left this way!"
+
+    div style="padding: 0.2em;" ""
+
+    h2 "Enjoy your stay!"
+
+}

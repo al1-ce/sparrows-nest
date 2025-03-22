@@ -1,0 +1,112 @@
+.margin-children > * {
+  margin: 1rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-left {
+  justify-content: left;
+}
+
+.flex-right {
+  justify-content: right;
+}
+
+.flex-middle {
+  justify-content: center;
+}
+
+.flex-stretch {
+  justify-content: space-around;
+}
+
+.flex-top {
+  align-items: flex-start;
+}
+
+.flex-bottom {
+  align-items: flex-end;
+}
+
+.flex-center {
+  align-items: center;
+}
+
+.flex-base {
+  align-items: baseline;
+}
+
+.block {
+  display: block;
+}
+
+.inline {
+  display: inline;
+}
+
+.pad {
+  padding: 1em;
+  box-sizing: border-box;
+}
+
+.wide {
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.strikethrough {
+  text-decoration: line-through;
+}
+
+.expanded {
+  text-align: justify;
+}
+
+.heavy {
+  font-weight: 600;
+}
+
+.upper {
+  text-transform: uppercase;
+}
+
+.lower {
+  text-transform: lowercase;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.hide {
+  display: none;
+}
