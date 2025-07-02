@@ -10,6 +10,7 @@ addItem("https://data-sparrow.itch.io/tremerine-sea-of-the-stars", "/img/games/t
 addItem("https://data-sparrow.itch.io/shardana-hydro-trail-gp", "/img/games/shardana.png", descriptionShardana);
 addItem("https://data-sparrow.itch.io/sirius-treacherous-reaches", "/img/games/sirius.png", descriptionSirius);
 addItem("https://datasparrow.itch.io/rebuilding-triunfo", "/img/games/triunfo.png", descriptionTriunfo);
+addItem("https://datasparrow.itch.io/roman-blasters", "/img/games/roman.png", descriptionRoman);
 
 showItem(0);
 
