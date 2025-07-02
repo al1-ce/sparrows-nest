@@ -148,7 +148,7 @@ The game includes  full assets for both tabletop and online play, to include a d
 var descriptionTriunfo = `
 **REBUILDING TRIUNFO**
 
-**Release Date: Q1 2025**
+**Release Date: April 28th 2025**
 
 **Media Type: Economic Warfare Card Game**
 
@@ -180,7 +180,7 @@ Rebuilding Triunfo is a 4-player, free-for-all economic warfare card game inspir
 var descriptionRoman = `
 **ROMAN BLASTERS**
 
-**Release Date: Q2 2025**
+**Release Date: June 20th 2025**
 
 **Media Type: Card Combat Game**
 
